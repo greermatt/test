@@ -7,10 +7,11 @@ html {
     font-family: Helvetica, sans-serif;
     font-size: 22px;
     color: seashell;
-    background-image: url(./greermatt/github.io/malik-skydsgaard-jY9rX-E7ztU-unsplash.jpg);
-    background-repeat: no-repeat;
+/*     background-image: url(./greermatt/github.io/malik-skydsgaard-jY9rX-E7ztU-unsplash.jpg); */
+/*     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover; */
+    background-color: black;
 }
 
 main {
