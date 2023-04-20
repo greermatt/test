@@ -148,7 +148,7 @@ figcaption {
 
 /* locations */
 .locations-whole-container {
-    background-image: url(./greermatt/github.io/img-locations-background.jpg);
+    background-image: url(https://github.com/greermatt/greermatt.github.io/blob/main/img-locations-background.jpg?raw=true);
     background-position: bottom;
     background-repeat: no-repeat;
     width: 80vw;
