@@ -7,7 +7,7 @@ html {
     font-family: Helvetica, sans-serif;
     font-size: 22px;
     color: seashell;
-    background-image: url(https://github.com/greermatt/greermatt.github.io/blob/main/malik-skydsgaard-jY9rX-E7ztU-unsplash.jpg?raw=true); */
+    background-image: url(https://www.dropbox.com/s/1rnvbd9upnyna4n/malik-skydsgaard-jY9rX-E7ztU-unsplash.jpg?dl=1); */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -82,7 +82,7 @@ a:visited {
 
 /* jumbotron / banner */
 .jumbotron {
-    background-image: url(https://github.com/greermatt/greermatt.github.io/blob/main/img-mission-background.jpg?raw=true);
+    background-image: url(https://www.dropbox.com/s/a87igpau9s73654/img-mission-background.jpg?dl=1);
     background-position: center;
     background-repeat: no-repeat;
     width: 80vw;
@@ -148,7 +148,7 @@ figcaption {
 
 /* locations */
 .locations-whole-container {
-    background-image: url(https://github.com/greermatt/greermatt.github.io/blob/main/img-locations-background.jpg?raw=true);
+    background-image: url(https://www.dropbox.com/s/ew34ylyqgqpf2ga/img-locations-background.jpg?dl=1);
     background-position: bottom;
     background-repeat: no-repeat;
     width: 80vw;
